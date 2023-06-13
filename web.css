@@ -1,0 +1,45 @@
+body {
+    background-color: black;
+}
+
+h1 {
+    color: white;
+}
+
+h3 {
+    color: aqua;
+    padding: 25px 50px;
+}
+
+p {
+    color: white;
+    padding: 25px 50px;
+}
+
+.flex-container {
+    display: flex;
+    background-color: black;
+  }
+  
+  .flex-container > div {
+    background-color: whitesmoke;
+    margin: 10px;
+    padding: 20px;
+    font-size: 30px;
+  }
+
+  img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+  }
+
+  .center {
+    text-align: center;
+  }
+
+  div {
+    width: 300px;
+    padding: 25px;
+  }
